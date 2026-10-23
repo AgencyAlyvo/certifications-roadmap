@@ -41,3 +41,5 @@ Objectifs :
 - Travailler la gestion du temps et la priorisation des tâches.
 - Identifier les derniers points faibles après les simulations Killer.sh.
 - Consolider sa préparation avant de passer l'examen officiel.
+
+10$ pour 5 examen blanc en condition réel.
