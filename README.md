@@ -5,11 +5,13 @@ Tableau de bord des certifications envisagées : priorités, coûts, codes d'exa
 ## 1. Kubernetes, IaC et gestion des secrets — Priorité haute
 
 | Priorité | Certification | Organisme | Code examen | Prix estimé | Code promo |
-|---|---|---|---|---:|---|
-| 1 | CKA — Kubernetes Administrator | CNCF / LF | CKA | 400 € | `KILLER30` / `30KK` → 280 € |
-| 2 | Terraform Authoring and Operations Advanced | HashiCorp | - | 263 € | — |
-| 3 | Vault Authoring and Operations Advanced | HashiCorp | - | 263 € | — |
-| 4 | CKS — Kubernetes Security Specialist | CNCF / LF | CKS | 400 € | `KILLER30` / `30KK` → 280 € |
+|---:|---|---|---|---:|---|
+| 1 | CKA — Kubernetes Administrator | CNCF / LF | `CKA` | 400 € → 280 € | `KILLER30` / `30KK` |
+| 2 | Terraform Associate | HashiCorp | `004` | 70 € | — |
+| 3 | Terraform Authoring and Operations Advanced | HashiCorp | — | 263 € | — |
+| 4 | Vault Associate | HashiCorp | `003` | 70 € | — |
+| 5 | Vault Authoring and Operations Advanced | HashiCorp | — | 263 € | — |
+| 6 | CKS — Kubernetes Security Specialist | CNCF / LF | `CKS` | 400 € → 280 € | `KILLER30` / `30KK` |
 
 ## 2. Linux, Ansible et Kubernetes — Priorité suivante
 
