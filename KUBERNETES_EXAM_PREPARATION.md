@@ -3,23 +3,23 @@
 ## 1. Vim — maîtriser l'édition
 S'entraîner à utiliser Vim : [Vim Trainer](https://vim-trainer.com/)
 
-Les points clés que vous devriez pratiquer jusqu'à ce qu'ils soient automatiques :
-- Sélectionner plusieurs lignes (Maj + V)
-- Indenter et désindenter (> / <)
-- Copier, coller, supprimer, déplacer des blocs. Ça ne prend pas longtemps à apprendre, mais vous devez le pratiquer beaucoup.
+Les points clés à pratiquer jusqu'à ce qu'ils deviennent automatiques :
+- Sélectionner plusieurs lignes (`Maj + V`).
+- Indenter et désindenter (`>` / `<`).
+- Copier, coller, supprimer et déplacer des blocs.
 
 ## 2. Killercoda — se familiariser avec l'environnement d'examen
 Prendre **l'abonnement PLUS pendant un mois (9,99 $)** : [Killercoda](https://killercoda.com/pricing)
 
-Utilisez Killercoda avec la configuration du bureau d'examen pour vous entraîner à :
-- Copier/coller depuis le navigateur
-- Copier/coller dans le terminal
-- Comprendre comment copier/coller se comporte différemment entre eux
+Utiliser Killercoda avec la configuration du bureau d'examen pour s'entraîner à :
+- Copier-coller depuis le navigateur.
+- Copier-coller dans le terminal.
+- Comprendre les différences de comportement du copier-coller entre les fenêtres.
 
 ## 3. Killer.sh — s'entraîner en conditions chronométrées
 Utiliser les **deux simulations généralement incluses** avec l'achat d'un examen éligible CKA, CKAD ou CKS : [Killer.sh](https://killer.sh/)
 
-Killer.sh ne reproduit pas nécessairement le même environnement que l'examen officiel : son intérêt est surtout de pratiquer des exercices Kubernetes difficiles sous contrainte de temps et d'évaluer son niveau.
+**Attention :** de nombreux retours de candidats indiquent que les simulations Killer.sh sont nettement plus difficiles que l'examen officiel. Il faut les utiliser pour repérer ses lacunes et s'entraîner sous pression, sans considérer son score comme une prédiction directe du résultat à l'examen.
 
 - **Simulation 1 :** identifier ses lacunes.
 - **Simulation 2 :** mesurer ses progrès avant l'examen.
