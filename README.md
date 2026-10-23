@@ -6,15 +6,15 @@ Tableau de bord des certifications envisagées : priorités, coûts, codes d'exa
 
 | Priorité | Certification | Organisme | Code examen | Prix estimé | Formation / préparation Udemy | Code promo / réduction |
 |---:|---|---|---|---:|---|---|
-| 1 | RHCSA — Red Hat Certified System Administrator | Red Hat | `EX200` | 636 € | [Formation RHCSA EX200](https://www.udemy.com/course/prepare-rhcsa-with-practice-course-unoffical/learn/lecture/52584637?start=0#overview) | 15 % après réussite, selon conditions |
-| 2 | RHCE — Red Hat Certified Engineer in Ansible | Red Hat | `EX294` | 636 € | [Formation RHCE EX294](https://www.udemy.com/course/linux-red-hat-certified-engineer-rhce-ex294/learn/lecture/32216486?start=0#overview) | 15 % après réussite, selon conditions |
-| 3 | CKA — Kubernetes Administrator | CNCF / LF | `CKA` | 400 € → 280 € | [Formation CKA](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/learn/lecture/14224074#overview) | `KILLER30` / `30KK` (-30 %) |
-| 4 | Terraform Associate | HashiCorp | `004` | 65 € | [Terraform Associate 004](https://www.udemy.com/course/terraform-beginner-to-advanced/learn/lecture/53743621#reviews) | — |
-| 5 | Terraform Authoring and Operations Advanced | HashiCorp | — | 263 € | [Terraform Authoring and Operations Professional](https://www.udemy.com/course/terraform-authoring-and-operations-professional/learn/lecture/58316449#overview) | — |
-| 6 | Vault Associate | HashiCorp | `003` | 65 € | [Formation HashiCorp Vault](https://www.udemy.com/course/hashicorp-vault/learn/lecture/51760777?start=0#overview) ET [Examen blanc Vault Associate](https://www.udemy.com/course/hashicorp-certified-vault-associate-practice-exam/learn/quiz/4759196#overview) | — |
+| 1 | Terraform Associate | HashiCorp | `004` | 65 € | [Terraform Associate 004](https://www.udemy.com/course/terraform-beginner-to-advanced/learn/lecture/53743621#reviews) | — |
+| 2 | CKA — Kubernetes Administrator | CNCF / LF | `CKA` | 400 € → 280 € | [Formation CKA](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/learn/lecture/14224074#overview) | `KILLER30` / `30KK` (-30 %) |
+| 3 | Terraform Authoring and Operations Advanced | HashiCorp | — | 263 € | [Terraform Authoring and Operations Advanced](https://www.udemy.com/course/terraform-authoring-and-operations-professional/learn/lecture/58316449#overview) | — |
+| 4 | Vault Associate | HashiCorp | `003` | 65 € | [Formation HashiCorp Vault](https://www.udemy.com/course/hashicorp-vault/learn/lecture/51760777?start=0#overview) ET [Examen blanc Vault Associate](https://www.udemy.com/course/hashicorp-certified-vault-associate-practice-exam/learn/quiz/4759196#overview) | — |
+| 5 | CAPA — Certified Argo Project Associate | CNCF / LF | `CAPA` | 223 € → 156 € | [Argo CD Essential](https://www.udemy.com/course/argo-cd-essential-guide-for-end-users-with-practice/learn/lecture/32789164#overview) ET [Examen blanc Argo CD Associate (CAPA)](https://www.udemy.com/course/argo-cd-associate-capa-exam-prep-questions-by-certified/learn/quiz/7106989#overview) | `KILLER30` / `30KK` (-30 %) |
+| 6 | CKS — Kubernetes Security Specialist | CNCF / LF | `CKS` | 400 € → 280 € | À compléter | `KILLER30` / `30KK` (-30 %) |
 | 7 | Vault Authoring and Operations Advanced | HashiCorp | — | 263 € | [Vault Authoring and Operations Advanced](https://www.udemy.com/course/hashicorp-certified-vault-operations-professional/learn/lecture/30861562?start=0#overview) | — |
-| 8 | CAPA — Certified Argo Project Associate | CNCF / LF | `CAPA` | 223 € → 156 € | [Argo CD Essential](https://www.udemy.com/course/argo-cd-essential-guide-for-end-users-with-practice/learn/lecture/32789164#overview) ET [Examen blanc Argo CD Associate (CAPA)](https://www.udemy.com/course/argo-cd-associate-capa-exam-prep-questions-by-certified/learn/quiz/7106989#overview) | `KILLER30` / `30KK` (-30 %) |
-| 9 | CKS — Kubernetes Security Specialist | CNCF / LF | `CKS` | 400 € → 280 € | À compléter | `KILLER30` / `30KK` (-30 %) |
+| 8 | RHCSA — Red Hat Certified System Administrator | Red Hat | `EX200` | 636 € | [Formation RHCSA EX200](https://www.udemy.com/course/prepare-rhcsa-with-practice-course-unoffical/learn/lecture/52584637?start=0#overview) | 15 % après réussite, selon conditions |
+| 9 | RHCE — Red Hat Certified Engineer in Ansible | Red Hat | `EX294` | 636 € | [Formation RHCE EX294](https://www.udemy.com/course/linux-red-hat-certified-engineer-rhce-ex294/learn/lecture/32216486?start=0#overview) | 15 % après réussite, selon conditions |
 
 ## 2. Kubernetes complémentaire — Priorité secondaire
 
