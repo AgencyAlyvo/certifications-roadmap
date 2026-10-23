@@ -6,8 +6,8 @@ Tableau de bord des certifications envisagées : priorités, coûts, codes d'exa
 
 | Priorité | Certification | Organisme | Code examen | Prix estimé | Code promo / réduction |
 |---:|---|---|---|---:|---|
-| 1 | RHCSA — System Administrator | Red Hat | `EX200` | 636 € | 15 % après réussite, selon conditions |
-| 2 | RHCE — Engineer (Ansible) | Red Hat | `EX294` | 636 € | 15 % après réussite, selon conditions |
+| 1 | RHCSA — Red Hat Certified System Administrator | Red Hat | `EX200` | 636 € | 15 % après réussite, selon conditions |
+| 2 | RHCE — Red Hat Certified Engineer in Ansible | Red Hat | `EX294` | 636 € | 15 % après réussite, selon conditions |
 | 3 | CKA — Kubernetes Administrator | CNCF / LF | `CKA` | 400 € → 280 € | `KILLER30` / `30KK` |
 | 4 | Terraform Associate | HashiCorp | `004` | 70 € | — |
 | 5 | Terraform Authoring and Operations Advanced | HashiCorp | — | 263 € | — |
