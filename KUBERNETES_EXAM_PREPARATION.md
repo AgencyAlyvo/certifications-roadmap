@@ -13,7 +13,7 @@ Les points clés que vous devriez pratiquer jusqu'à ce qu'ils soient automatiqu
 
 Prendre **l'abonnement PLUS pendant un mois (9,99 $)**.
 
-Utilisez Killercoda avec la configuration du bureau d'examen pour vous entraîner :
+Utilisez Killercoda avec la configuration du bureau d'examen pour vous entraîner à :
 - Copier/coller depuis le navigateur
 - Copier/coller dans le terminal
 - Comprendre comment copier/coller se comporte différemment entre eux
