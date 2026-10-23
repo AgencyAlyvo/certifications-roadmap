@@ -1,6 +1,6 @@
 # Kubernetes Exam Preparation — CKA, CKAD & CKS
 
-## 1. Vim — maîtriser l'édition YAML
+## 1. Vim — maîtriser l'édition
 S'entraîner à utiliser Vim : [Vim Trainer](https://vim-trainer.com/)
 
 Les points clés que vous devriez pratiquer jusqu'à ce qu'ils soient automatiques :
