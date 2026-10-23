@@ -30,9 +30,9 @@ Tableau de bord des certifications envisagées : priorités, coûts, codes d'exa
 |---|---|---:|---|
 | DevOps Engineer – Professional | `DOP-C02` | 267 € | Haute |
 | CloudOps Engineer – Associate | `SOA-C03` | 133 € | Haute |
-| Solutions Architect – Professional | `SAP-C03` | 267 € | Moyenne |
+| Solutions Architect – Professional | `SAP-C03` | 267 € | Haute |
+| Security – Specialty | `SCS-C03` | 267 € | Moyenne |
 | Generative AI Developer – Professional | `AIP-C01` | 267 € | Moyenne |
-| Security – Specialty | `SCS-C03` | 267 € | Secondaire |
 
 ## 4. Azure — Cloud, DevOps et IA
 
@@ -46,18 +46,3 @@ Tableau de bord des certifications envisagées : priorités, coûts, codes d'exa
 | Azure Solutions Architect Expert | `AZ-305` | 126 € | Moyenne |
 | Azure AI Cloud Developer Associate | `AI-200` | 126 € | À vérifier |
 | Cloud and AI Security Engineer Associate | `SC-500` | 126 € | Secondaire |
-
-## 5. Ordre d'exécution envisagé
-
-1. **RHCSA → RHCE** : consolider Linux et Ansible.
-2. **CKA** : valider les compétences d'administration Kubernetes.
-3. **Terraform Associate → Terraform Advanced** : maîtriser l'IaC.
-4. **Vault Associate → Vault Advanced** : approfondir la gestion des secrets.
-5. **CAPA** : se spécialiser dans l'écosystème Argo et GitOps.
-6. **CKS** : approfondir la sécurité Kubernetes.
-7. **AWS / Azure** : choisir les certifications cloud selon les missions ciblées.
-8. **CKAD, KCNA et KCSA** : certifications complémentaires, à envisager selon les besoins.
-
-**Stratégie :** privilégier les certifications directement utiles pour le positionnement freelance DevOps / SRE / Platform Engineer. Les certifications complémentaires sont secondaires par rapport à la pratique réelle de Kubernetes, Terraform, Ansible, CI/CD et GitOps.
-
-*Les prix sont des estimations à revérifier avant inscription. Les codes, intitulés et disponibilités des certifications cloud sont à confirmer sur les sites officiels. Les réductions CNCF/LF dépendent de la validité des codes promotionnels au moment de l'achat.*
