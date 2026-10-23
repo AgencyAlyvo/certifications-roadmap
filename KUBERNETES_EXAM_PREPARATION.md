@@ -1,10 +1,12 @@
 # Kubernetes Exam Preparation — CKA, CKAD & CKS
 
 ## 1. Vim — maîtriser l'édition YAML
-S'entraîner à modifier rapidement les manifests Kubernetes directement dans Vim.
+S'entraîner à utiliser Vim : [Vim Trainer](https://vim-trainer.com/)
 
-- [Vim Trainer](https://vim-trainer.com/) — entraînement gratuit.
-- [Vim Genius](https://vimgenius.com/) — exercices interactifs.
+Les points clés que vous devriez pratiquer jusqu'à ce qu'ils soient automatiques :
+- Sélectionner plusieurs lignes (Maj + V)
+- Indenter et désindenter (> / <)
+- Copier, coller, supprimer, déplacer des blocs. Ça ne prend pas longtemps à apprendre, mais vous devez le pratiquer beaucoup.
 
 ## 2. Killercoda — se familiariser avec l'environnement d'examen
 [Killercoda — tarifs](https://killercoda.com/pricing)
