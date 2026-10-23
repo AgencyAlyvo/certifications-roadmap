@@ -22,7 +22,7 @@ Tableau de bord des certifications envisagées : priorités, coûts, codes d'exa
 | 9 | KCSA — Kubernetes and Cloud Security Associate | CNCF / LF | `KCSA` | 223 € → 156 € | À compléter | `KILLER30` / `30KK` (-30 %) |
 | 10 | KCNA — Kubernetes and Cloud Native Associate | CNCF / LF | `KCNA` | 223 € → 156 € | À compléter | `KILLER30` / `30KK` (-30 %) |
 
-## 3. Linux et Ansible Red Hat — Priorité différée
+## 3. Linux, Ansible et OpenShift Red Hat — Priorité différée
 
 | Priorité | Certification | Organisme | Code examen | Prix estimé | Formation / préparation Udemy | Code promo / réduction |
 |---:|---|---|---|---:|---|---|
