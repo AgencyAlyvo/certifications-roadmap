@@ -9,9 +9,7 @@ Les points clés que vous devriez pratiquer jusqu'à ce qu'ils soient automatiqu
 - Copier, coller, supprimer, déplacer des blocs. Ça ne prend pas longtemps à apprendre, mais vous devez le pratiquer beaucoup.
 
 ## 2. Killercoda — se familiariser avec l'environnement d'examen
-[Killercoda](https://killercoda.com/pricing)
-
-Prendre **l'abonnement PLUS pendant un mois (9,99 $)**.
+Prendre **l'abonnement PLUS pendant un mois (9,99 $)** : [Killercoda](https://killercoda.com/pricing)
 
 Utilisez Killercoda avec la configuration du bureau d'examen pour vous entraîner à :
 - Copier/coller depuis le navigateur
@@ -19,9 +17,7 @@ Utilisez Killercoda avec la configuration du bureau d'examen pour vous entraîne
 - Comprendre comment copier/coller se comporte différemment entre eux
 
 ## 3. Killer.sh — s'entraîner en conditions chronométrées
-[Killer.sh](https://killer.sh/)
-
-Utiliser les **deux simulations généralement incluses** avec l'achat d'un examen éligible CKA, CKAD ou CKS.
+Utiliser les **deux simulations généralement incluses** avec l'achat d'un examen éligible CKA, CKAD ou CKS : [Killer.sh](https://killer.sh/)
 
 Killer.sh ne reproduit pas nécessairement le même environnement que l'examen officiel : son intérêt est surtout de pratiquer des exercices Kubernetes difficiles sous contrainte de temps et d'évaluer son niveau.
 
