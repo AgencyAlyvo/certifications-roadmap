@@ -28,7 +28,7 @@ Tableau de bord des certifications envisagées : priorités, coûts, codes d'exa
 |---:|---|---|---|---:|---|---|
 | 11 | RHCSA — Red Hat Certified System Administrator | Red Hat | `EX200` | 636 € | [Formation RHCSA EX200](https://www.udemy.com/course/prepare-rhcsa-with-practice-course-unoffical/learn/lecture/52584637?start=0#overview) | 15 % après réussite, selon conditions |
 | 12 | RHCE — Red Hat Certified Engineer in Ansible | Red Hat | `EX294` | 636 € | [Formation RHCE EX294](https://www.udemy.com/course/linux-red-hat-certified-engineer-rhce-ex294/learn/lecture/32216486?start=0#overview) | 15 % après réussite, selon conditions |
-| 13 | Red Hat Certified OpenShift Administrator | Red Hat | `EX280` | 636 € | À compléter | 15 % après réussite, selon conditions |
+| 13 | Red Hat Certified OpenShift Administrator | Red Hat | `EX280` | 636 € | [Formation EX280](https://www.udemy.com/course/ex280-red-hat-certified-openshift-administrator-25-qa/learn/lecture/51308331#overview) | 15 % après réussite, selon conditions |
 
 ## 4. AWS — Cloud, DevOps et IA
 
