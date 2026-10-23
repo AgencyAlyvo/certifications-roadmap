@@ -9,7 +9,7 @@ Les points clés que vous devriez pratiquer jusqu'à ce qu'ils soient automatiqu
 - Copier, coller, supprimer, déplacer des blocs. Ça ne prend pas longtemps à apprendre, mais vous devez le pratiquer beaucoup.
 
 ## 2. Killercoda — se familiariser avec l'environnement d'examen
-[Killercoda — tarifs](https://killercoda.com/pricing)
+[Killercoda](https://killercoda.com/pricing)
 
 Prendre **l'abonnement PLUS pendant un mois (9,99 $)** pour s'entraîner dans l'environnement de bureau distant utilisé pour les examens, afin de se familiariser avec le terminal Linux, le navigateur, le copier-coller et les raccourcis clavier avant le jour J.
 
