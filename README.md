@@ -11,7 +11,7 @@ Tableau de bord des certifications envisagées : priorités, coûts, codes d'exa
 | 3 | Vault Authoring and Operations Advanced | HashiCorp | - | 263 € | — |
 | 4 | CKS — Kubernetes Security Specialist | CNCF / LF | CKS | 400 € | `KILLER30` / `30KK` → 280 € |
 
-## 2. Linux et automatisation — Priorité suivante
+## 2. Linux, Ansible et Kubernetes — Priorité suivante
 
 | Priorité | Certification | Organisme | Code examen | Prix estimé | Réduction |
 |---|---|---|---|---:|---|
