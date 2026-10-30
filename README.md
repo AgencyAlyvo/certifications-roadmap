@@ -31,24 +31,24 @@ Tableau de bord des certifications envisagées : priorités, coûts, codes d'exa
 
 ## 4. AWS — Cloud, DevOps et IA
 
-| Certification | Code examen | Prix estimé | Priorité | Formation / préparation |
-|---|---|---:|---|---|
-| CloudOps Engineer – Associate | `SOA-C03` | 133 € | Haute | À compléter |
-| DevOps Engineer – Professional | `DOP-C02` | 267 € | Haute | À compléter |
-| Solutions Architect – Professional | `SAP-C03` | 267 € | Haute | À compléter |
-| Security – Specialty | `SCS-C03` | 267 € | Moyenne | À compléter |
-| Developer – Associate | `DVA-C03` | 133 € | Moyenne | À compléter |
-| Generative AI Developer – Professional | `AIP-C01` | 267 € | Moyenne | À compléter |
+| Certification | Code examen | Prix estimé | Priorité | Validité | Renouvellement gratuit ? | Prérequis obligatoire | Durée examen | Format |
+|---|---|---:|---|---|---|---|---|---|
+| CloudOps Engineer – Associate | `SOA-C03` | 133 € | Haute | 3 ans | Oui, via `DOP-C02` ou option Skill Builder éligible (payante) | Aucun | 130 min | QCM, réponses multiples |
+| DevOps Engineer – Professional | `DOP-C02` | 267 € | Haute | 3 ans | Oui, via nouvel examen ou option Skill Builder éligible (payante) | Aucun | 180 min | QCM, réponses multiples |
+| Solutions Architect – Professional | `SAP-C03` | 267 € | Haute | 3 ans | Oui, via nouvel examen ou option Skill Builder éligible (payante) | Aucun | 180 min | QCM, réponses multiples |
+| Security – Specialty | `SCS-C03` | 267 € | Moyenne | 3 ans | Oui, via nouvel examen ou option Skill Builder éligible (payante) | Aucun | 170 min | QCM, réponses multiples |
+| Developer – Associate | `DVA-C03` | 133 € | Moyenne | 3 ans | Oui, via `DOP-C02` ou option Skill Builder éligible (payante) | Aucun | 130 min | QCM, réponses multiples |
+| Generative AI Developer – Professional | `AIP-C01` | 267 € | Moyenne | 3 ans | Oui, via nouvel examen ou option Skill Builder éligible (payante) | Aucun | 180 min | QCM, réponses multiples |
 
 ## 5. Azure — Cloud, DevOps et IA
 
-| Certification envisagée | Code examen | Prix estimé | Priorité | Formation / préparation |
-|---|---|---:|---|---|
-| Azure Administrator Associate | `AZ-104` | 126 € | Haute | À compléter |
-| DevOps Engineer Expert | `AZ-400` | 126 € | Haute | À compléter |
-| Azure Solutions Architect Expert | `AZ-305` | 126 € | Haute | À compléter |
-| Cloud and AI Security Engineer Associate | `SC-500` | 126 € | Haute | À compléter |
-| Azure AI Cloud Developer Associate | `AI-200` | 126 € | Moyenne | À compléter |
-| Azure AI Apps and Agents Developer Associate | `AI-103` | 126 € | Moyenne | À compléter |
-| Multi-Agent AI Solutions Expert | `AI-500` | 126 € | Moyenne | À compléter |
-| Agentic DevOps Engineer Expert | `AZ-401` | 126 € | Moyenne | À compléter |
+| Certification envisagée | Code examen | Prix estimé | Priorité | Validité | Renouvellement gratuit ? | Prérequis obligatoire | Durée examen | Format |
+|---|---|---:|---|---|---|---|---|---|
+| Azure Administrator Associate | `AZ-104` | 126 € | Haute | 1 an | Oui, évaluation Microsoft Learn gratuite | Aucun | 100 min | QCM, études de cas, questions interactives |
+| DevOps Engineer Expert | `AZ-400` | 126 € | Haute | 1 an | Oui, évaluation Microsoft Learn gratuite | `AZ-104` ou Azure Developer Associate | 100 à 120 min | QCM, études de cas, lab possible |
+| Azure Solutions Architect Expert | `AZ-305` | 126 € | Haute | 1 an | Oui, évaluation Microsoft Learn gratuite | `AZ-104` | 100 à 120 min | QCM, études de cas, lab possible |
+| Cloud and AI Security Engineer Associate | `SC-500` | 126 € | Haute | 1 an | Oui, évaluation Microsoft Learn gratuite | Aucun | 120 min | QCM, questions interactives, lab possible |
+| Azure AI Cloud Developer Associate | `AI-200` | 126 € | Moyenne | 1 an | Oui, évaluation Microsoft Learn gratuite | Aucun | 120 min | QCM, questions interactives, lab possible |
+| Azure AI Apps and Agents Developer Associate | `AI-103` | 126 € | Moyenne | 1 an | Oui, évaluation Microsoft Learn gratuite | Aucun | 120 min | QCM, questions interactives, lab possible |
+| Multi-Agent AI Solutions Expert | `AI-500` | 126 € | Moyenne | 1 an | Oui, évaluation Microsoft Learn gratuite | `AI-103` pour obtenir la certification Expert | À confirmer (bêta) | À confirmer |
+| Agentic DevOps Engineer Expert | `AZ-401` | 126 € | Moyenne | 1 an | Oui, évaluation Microsoft Learn gratuite | Aucun indiqué | À confirmer (bêta) | À confirmer |
