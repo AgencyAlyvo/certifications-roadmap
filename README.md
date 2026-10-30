@@ -33,11 +33,11 @@ Tableau de bord des certifications envisagées : priorités, coûts, codes d'exa
 
 | Certification | Code examen | Prix estimé | Priorité | Formation / préparation |
 |---|---|---:|---|---|
-| DevOps Engineer – Professional | `DOP-C02` | 267 € | Haute | À compléter |
 | CloudOps Engineer – Associate | `SOA-C03` | 133 € | Haute | À compléter |
+| DevOps Engineer – Professional | `DOP-C02` | 267 € | Haute | À compléter |
 | Solutions Architect – Professional | `SAP-C03` | 267 € | Haute | À compléter |
 | Security – Specialty | `SCS-C03` | 267 € | Moyenne | À compléter |
-| Developer – Associate | `DVA-C02` | 133 € | Moyenne | À compléter |
+| Developer – Associate | `DVA-C03` | 133 € | Moyenne | À compléter |
 | Generative AI Developer – Professional | `AIP-C01` | 267 € | Moyenne | À compléter |
 
 ## 5. Azure — Cloud, DevOps et IA
