@@ -33,12 +33,12 @@ Tableau de bord des certifications envisagées : priorités, coûts, codes d'exa
 
 | Certification | Code examen | Prix estimé | Priorité | Validité | Options de renouvellement | Prérequis obligatoire | Durée examen | Format |
 |---|---|---:|---|---|---|---|---|---|
-| CloudOps Engineer – Associate | `SOA-C03` | 133 € | Haute | 3 ans | `SOA-C03` : +3 ans ; `DOP-C02` : +3 ans ; Skill Builder : +1 an (abonnement payant, possible dans les 90 derniers jours) ; examen : -50 % avec le voucher AWS | Aucun | 130 min | QCM, réponses multiples |
-| DevOps Engineer – Professional | `DOP-C02` | 267 € | Haute | 3 ans | `DOP-C02` : +3 ans ; Skill Builder : +1 an (abonnement payant, possible dans les 90 derniers jours) ; examen : -50 % avec le voucher AWS | Aucun | 180 min | QCM, réponses multiples |
-| Solutions Architect – Professional | `SAP-C03` | 267 € | Haute | 3 ans | `SAP-C03` : +3 ans ; Skill Builder : +1 an (abonnement payant, possible dans les 90 derniers jours) ; examen : -50 % avec le voucher AWS | Aucun | 180 min | QCM, réponses multiples |
-| Security – Specialty | `SCS-C03` | 267 € | Moyenne | 3 ans | `SCS-C03` : +3 ans ; Skill Builder : +1 an (abonnement payant, possible dans les 90 derniers jours) ; examen : -50 % avec le voucher AWS | Aucun | 170 min | QCM, réponses multiples |
-| Developer – Associate | `DVA-C03` | 133 € | Moyenne | 3 ans | `DVA-C03` : +3 ans ; `DOP-C02` : +3 ans ; Skill Builder : +1 an (abonnement payant, possible dans les 90 derniers jours) ; examen : -50 % avec le voucher AWS | Aucun | 130 min | QCM, réponses multiples |
-| Generative AI Developer – Professional | `AIP-C01` | 267 € | Moyenne | 3 ans | `AIP-C01` uniquement : +3 ans ; pas de maintien Skill Builder actuellement ; examen : -50 % avec le voucher AWS | Aucun | 180 min | QCM, réponses multiples |
+| CloudOps Engineer – Associate | `SOA-C03` | 133 € | Haute | 3 ans | Skill Builder : +1 an (abonnement payant, renouvellement possible dans les 90 derniers jours de validité) ; après chaque examen AWS réussi : voucher de -50 % sur un prochain examen | Aucun | 130 min | QCM, réponses multiples |
+| DevOps Engineer – Professional | `DOP-C02` | 267 € | Haute | 3 ans | Skill Builder : +1 an (abonnement payant, renouvellement possible dans les 90 derniers jours de validité) ; après chaque examen AWS réussi : voucher de -50 % sur un prochain examen | Aucun | 180 min | QCM, réponses multiples |
+| Solutions Architect – Professional | `SAP-C03` | 267 € | Haute | 3 ans | Skill Builder : +1 an (abonnement payant, renouvellement possible dans les 90 derniers jours de validité) ; après chaque examen AWS réussi : voucher de -50 % sur un prochain examen | Aucun | 180 min | QCM, réponses multiples |
+| Security – Specialty | `SCS-C03` | 267 € | Moyenne | 3 ans | Skill Builder : +1 an (abonnement payant, renouvellement possible dans les 90 derniers jours de validité) ; après chaque examen AWS réussi : voucher de -50 % sur un prochain examen | Aucun | 170 min | QCM, réponses multiples |
+| Developer – Associate | `DVA-C03` | 133 € | Moyenne | 3 ans | Skill Builder : +1 an (abonnement payant, renouvellement possible dans les 90 derniers jours de validité) ; après chaque examen AWS réussi : voucher de -50 % sur un prochain examen | Aucun | 130 min | QCM, réponses multiples |
+| Generative AI Developer – Professional | `AIP-C01` | 267 € | Moyenne | 3 ans | Pas de renouvellement Skill Builder actuellement ; après chaque examen AWS réussi : voucher de -50 % sur un prochain examen | Aucun | 180 min | QCM, réponses multiples |
 
 ## 5. Azure — Cloud, DevOps et IA
 
