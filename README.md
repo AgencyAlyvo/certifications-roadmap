@@ -7,20 +7,19 @@ Tableau de bord des certifications envisagées : priorités, coûts, codes d'exa
 | Priorité | Certification | Organisme | Code examen | Prix estimé | Formation / préparation Udemy | Code promo / réduction |
 |---:|---|---|---|---:|---|---|
 | 1 | CKA — Kubernetes Administrator | CNCF / LF | `CKA` | 400 € → 280 € | [Formation CKA](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/learn/lecture/14224074#overview) | `KILLER30` / `30KK` (-30 %) |
-| 2 | Terraform Associate | HashiCorp | `004` | 65 € | [Terraform Associate 004](https://www.udemy.com/course/terraform-beginner-to-advanced/learn/lecture/53743621#reviews) | — |
-| 3 | Terraform Authoring and Operations Advanced | HashiCorp | — | 263 € | [Terraform Authoring and Operations Advanced](https://www.udemy.com/course/terraform-authoring-and-operations-professional/learn/lecture/58316449#overview) | — |
-| 4 | Vault Associate | HashiCorp | `003` | 65 € | [Formation HashiCorp Vault](https://www.udemy.com/course/hashicorp-vault/learn/lecture/51760777?start=0#overview) et [Examen blanc Vault Associate](https://www.udemy.com/course/hashicorp-certified-vault-associate-practice-exam/learn/quiz/4759196#overview) | — |
-| 5 | Vault Authoring and Operations Advanced | HashiCorp | — | 263 € | [Vault Authoring and Operations Advanced](https://www.udemy.com/course/hashicorp-certified-vault-operations-professional/learn/lecture/30861562?start=0#overview) | — |
+| 2 | CKS — Kubernetes Security Specialist | CNCF / LF | `CKS` | 400 € → 280 € | À compléter | `KILLER30` / `30KK` (-30 %) |
+| 3 | Terraform Associate | HashiCorp | `004` | 65 € | [Terraform Associate 004](https://www.udemy.com/course/terraform-beginner-to-advanced/learn/lecture/53743621#reviews) | — |
+| 4 | Terraform Authoring and Operations Advanced | HashiCorp | — | 263 € | [Terraform Authoring and Operations Advanced](https://www.udemy.com/course/terraform-authoring-and-operations-professional/learn/lecture/58316449#overview) | — |
+| 5 | Vault Associate | HashiCorp | `003` | 65 € | [Formation HashiCorp Vault](https://www.udemy.com/course/hashicorp-vault/learn/lecture/51760777?start=0#overview) et [Examen blanc Vault Associate](https://www.udemy.com/course/hashicorp-certified-vault-associate-practice-exam/learn/quiz/4759196#overview) | — |
 | 6 | CAPA — Certified Argo Project Associate | CNCF / LF | `CAPA` | 223 € → 156 € | [Argo CD Essential](https://www.udemy.com/course/argo-cd-essential-guide-for-end-users-with-practice/learn/lecture/32789164#overview) et [Examen blanc Argo CD Associate (CAPA)](https://www.udemy.com/course/argo-cd-associate-capa-exam-prep-questions-by-certified/learn/quiz/7106989#overview) | `KILLER30` / `30KK` (-30 %) |
-| 7 | CKAD — Kubernetes Application Developer | CNCF / LF | `CKAD` | 400 € → 280 € | À compléter | `KILLER30` / `30KK` (-30 %) |
-| 8 | CKS — Kubernetes Security Specialist | CNCF / LF | `CKS` | 400 € → 280 € | À compléter | `KILLER30` / `30KK` (-30 %) |
 
 ## 2. Kubernetes complémentaire — Après le CKS
 
 | Priorité | Certification | Organisme | Code examen | Prix estimé | Formation / préparation | Code promo / réduction |
 |---:|---|---|---|---:|---|---|
-| 9 | KCSA — Kubernetes and Cloud Security Associate | CNCF / LF | `KCSA` | 223 € → 156 € | À compléter | `KILLER30` / `30KK` (-30 %) |
-| 10 | KCNA — Kubernetes and Cloud Native Associate | CNCF / LF | `KCNA` | 223 € → 156 € | À compléter | `KILLER30` / `30KK` (-30 %) |
+| 7 | CKAD — Kubernetes Application Developer | CNCF / LF | `CKAD` | 400 € → 280 € | À compléter | `KILLER30` / `30KK` (-30 %) |
+| 8 | KCSA — Kubernetes and Cloud Security Associate | CNCF / LF | `KCSA` | 223 € → 156 € | À compléter | `KILLER30` / `30KK` (-30 %) |
+| 9 | KCNA — Kubernetes and Cloud Native Associate | CNCF / LF | `KCNA` | 223 € → 156 € | À compléter | `KILLER30` / `30KK` (-30 %) |
 
 ## 3. Linux, Ansible et OpenShift Red Hat — Priorité différée
 
@@ -45,14 +44,11 @@ Tableau de bord des certifications envisagées : priorités, coûts, codes d'exa
 
 | Certification envisagée | Code examen | Prix estimé | Priorité | Formation / préparation |
 |---|---|---:|---|---|
-| Azure AI Apps and Agents Developer Associate | `AI-103` | 126 € | Haute — IA | À compléter |
-| Multi-Agent AI Solutions Expert | `AI-500` | 126 € | Haute — IA | À compléter |
-| Agentic DevOps Engineer Expert | `AZ-401` | 126 € | À vérifier | À compléter |
+| Azure Administrator Associate | `AZ-104` | 126 € | Haute | À compléter |
 | DevOps Engineer Expert | `AZ-400` | 126 € | Haute | À compléter |
-| Azure Administrator Associate | `AZ-104` | 126 € | Moyenne | À compléter |
-| Azure Solutions Architect Expert | `AZ-305` | 126 € | Moyenne | À compléter |
-| Azure AI Cloud Developer Associate | `AI-200` | 126 € | À vérifier | À compléter |
-| Cloud and AI Security Engineer Associate | `SC-500` | 126 € | Secondaire | À compléter |
-- [ ] Cloud and AI Security Engineer Associate
-
-*Les tarifs, codes d'examen, intitulés et promotions sont des estimations ou informations à confirmer auprès des organismes officiels avant inscription.*
+| Azure Solutions Architect Expert | `AZ-305` | 126 € | Haute | À compléter |
+| Cloud and AI Security Engineer Associate | `SC-500` | 126 € | Haute | À compléter |
+| Azure AI Cloud Developer Associate | `AI-200` | 126 € | Moyenne | À compléter |
+| Azure AI Apps and Agents Developer Associate | `AI-103` | 126 € | Moyenne | À compléter |
+| Multi-Agent AI Solutions Expert | `AI-500` | 126 € | Moyenne | À compléter |
+| Agentic DevOps Engineer Expert | `AZ-401` | 126 € | Moyenne | À compléter |
