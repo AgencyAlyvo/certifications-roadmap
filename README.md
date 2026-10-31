@@ -16,6 +16,25 @@ Tableau de bord des certifications envisagées : priorités, coûts, codes d'exa
 | 8 | Vault Associate | HashiCorp | `003` | 65 € | [Formation HashiCorp Vault](https://www.udemy.com/course/hashicorp-vault/learn/lecture/51760777?start=0#overview) et [Examen blanc Vault Associate](https://www.udemy.com/course/hashicorp-certified-vault-associate-practice-exam/learn/quiz/4759196#overview) | — | 2 ans | Même examen : dans les 6 derniers mois avant expiration | Repasser `003`, ou réussir Vault Operations Advanced avant expiration. L'Advanced prolonge automatiquement l'Associate. | Payant : nouvel examen. Le renouvellement automatique par Advanced ne coûte rien de plus, mais l'examen Advanced est payant. |
 | 9 | Vault Authoring and Operations Advanced | HashiCorp | — | 263 € | [Vault Authoring and Operations Advanced](https://www.udemy.com/course/hashicorp-certified-vault-operations-professional/learn/lecture/30861562?start=0#overview) | — | 2 ans | Dans les 6 derniers mois avant expiration | Repasser l'examen Vault Operations Advanced. | Payant : nouvel examen. Une reprise gratuite est incluse uniquement après un premier échec, sous conditions. |
 
+### Renouvellement des certifications Kubernetes — programme CARE *
+
+**Modalité de renouvellement :**
+
+| Certification déjà obtenue | Certification supérieure permettant le renouvellement automatique |
+|---|---|
+| KCNA | CKA ou CKAD |
+| KCSA | CKS |
+| CKA | CKS |
+| CKAD | — |
+| CKS | KCSA, CKA et KCNA |
+
+**Pour conserver les 5 certifications Kubestronaut :**
+- Renouveler le CKS : renouvelle automatiquement CKS, CKA, KCSA, et KCNA.
+- Renouveler le CKAD : renouvelle automatiquement CKAD.
+- Il suffit donc de maintenir le CKS et le CKAD actifs pour conserver les 5 certifications, sans repasser individuellement KCNA, KCSA et CKA.
+
+Source : https://training.linuxfoundation.org/care-program/
+
 <br /><br />
 
 ---
