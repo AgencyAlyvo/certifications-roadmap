@@ -2,7 +2,7 @@
 
 Tableau de bord des certifications envisagées : priorités, coûts, codes d'examen, promotions, formations et progression.
 
-## 1. Linux, Kubernetes, IaC, secrets et GitOps
+## 1. Linux, Kubernetes, IaC, et Vault
 
 | Priorité | Certification | Organisme | Code examen | Prix estimé | Formation / préparation Udemy | Code promo / réduction |
 |---:|---|---|---|---:|---|---|
