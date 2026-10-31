@@ -42,12 +42,12 @@ Source : https://training.linuxfoundation.org/care-program/
 <br /><br />
 
 ## 2. Linux Red Hat, Ansible Red Hat, OpenShift Red Hat et GitOps — Après les certifications Azure ou AWS
-| Priorité | Certification | Organisme | Code examen | Prix estimé | Formation / préparation Udemy | Code promo / réduction |
-|---:|---|---|---|---:|---|---|
-| 7 | RHCSA — Red Hat Certified System Administrator | Red Hat | `EX200` | 636 € | [Formation RHCSA EX200](https://www.udemy.com/course/prepare-rhcsa-with-practice-course-unoffical/learn/lecture/52584637?start=0#overview) | 15 % après réussite, selon conditions |
-| 8 | RHCE — Red Hat Certified Engineer in Ansible | Red Hat | `EX294` | 636 € | [Formation RHCE EX294](https://www.udemy.com/course/linux-red-hat-certified-engineer-rhce-ex294/learn/lecture/32216486?start=0#overview) | 15 % après réussite, selon conditions |
-| 9 | CAPA — Certified Argo Project Associate | CNCF / LF | `CAPA` | 223 € → 156 € | [Argo CD Essential](https://www.udemy.com/course/argo-cd-essential-guide-for-end-users-with-practice/learn/lecture/32789164#overview) et [Examen blanc Argo CD Associate (CAPA)](https://www.udemy.com/course/argo-cd-associate-capa-exam-prep-questions-by-certified/learn/quiz/7106989#overview) | `KILLER30` / `30KK` (-30 %) |
-| 10 | Red Hat Certified OpenShift Administrator | Red Hat | `EX280` | 636 € | [Formation EX280](https://www.udemy.com/course/ex280-red-hat-certified-openshift-administrator-25-qa/learn/lecture/51308331#overview) | 15 % après réussite, selon conditions |
+| Priorité | Certification | Organisme | Code examen | Prix estimé | Formation / préparation Udemy | Code promo / réduction | Validité | Quand renouveler | Modalité de renouvellement | Renouvellement payant / gratuit |
+|---:|---|---|---|---:|---|---|---|---|---|---|
+| 7 | RHCSA — Red Hat Certified System Administrator | Red Hat | `EX200` | 636 € | [Formation RHCSA EX200](https://www.udemy.com/course/prepare-rhcsa-with-practice-course-unoffical/learn/lecture/52584637?start=0#overview) | 15 % après réussite, selon conditions | 3 ans | Avant expiration | Repasser `EX200` ou obtenir RHCE (`EX294`) alors que RHCSA est encore valide. | Payant : nouvel examen. Renouvellement automatique via RHCE, sans frais supplémentaires au-delà de l'examen RHCE. |
+| 8 | RHCE — Red Hat Certified Engineer in Ansible | Red Hat | `EX294` | 636 € | [Formation RHCE EX294](https://www.udemy.com/course/linux-red-hat-certified-engineer-rhce-ex294/learn/lecture/32216486?start=0#overview) | 15 % après réussite, selon conditions | 3 ans | Avant expiration | Repasser `EX294` ou obtenir une certification RHCA éligible alors que RHCE est encore valide. | Payant : nouvel examen. Renouvellement automatique via une certification RHCA éligible, sans frais supplémentaires au-delà de l'examen supérieur. |
+| 9 | CAPA — Certified Argo Project Associate | CNCF / LF | `CAPA` | 223 € → 156 € | [Argo CD Essential](https://www.udemy.com/course/argo-cd-essential-guide-for-end-users-with-practice/learn/lecture/32789164#overview) et [Examen blanc Argo CD Associate (CAPA)](https://www.udemy.com/course/argo-cd-associate-capa-exam-prep-questions-by-certified/learn/quiz/7106989#overview) | `KILLER30` / `30KK` (-30 %) | 2 ans | Avant expiration | Repasser l'examen `CAPA`. | Payant : nouvel examen. Une reprise gratuite est incluse après un premier échec, sous conditions. |
+| 10 | Red Hat Certified OpenShift Administrator | Red Hat | `EX280` | 636 € | [Formation EX280](https://www.udemy.com/course/ex280-red-hat-certified-openshift-administrator-25-qa/learn/lecture/51308331#overview) | 15 % après réussite, selon conditions | 3 ans | Avant expiration | Repasser l'examen `EX280`. | Payant : nouvel examen. |
 
 <br /><br />
 
