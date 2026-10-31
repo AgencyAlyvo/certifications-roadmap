@@ -2,15 +2,15 @@
 
 Tableau de bord des certifications envisagées : priorités, coûts, codes d'examen, promotions, formations et progression.
 
-## 1. Kubernetes, IaC, et Vault
+## 1. Kubernetes, Terraform, et Vault
 
 | Priorité | Certification | Organisme | Code examen | Prix estimé | Formation / préparation Udemy | Code promo / réduction | Validité | Quand renouveler | Modalité de renouvellement | Renouvellement payant / gratuit |
 |---:|---|---|---|---:|---|---|---|---|---|---|
-| 1 | CKA — Kubernetes Administrator | CNCF / LF | `CKA` | 400 € → 280 € | [Formation CKA](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/learn/lecture/14224074#overview) | `KILLER30` / `30KK` (-30 %) | 2 ans | Avant expiration | Voir en bas* | Voir en bas* |
-| 2 | CKS — Kubernetes Security Specialist | CNCF / LF | `CKS` | 400 € → 280 € | À compléter | `KILLER30` / `30KK` (-30 %) | 2 ans | Avant expiration | Voir en bas* | Voir en bas* |
-| 3 | CKAD — Kubernetes Application Developer | CNCF / LF | `CKAD` | 400 € → 280 € | À compléter | `KILLER30` / `30KK` (-30 %) | 2 ans | Avant expiration | Voir en bas* | Voir en bas* |
-| 4 | KCSA — Kubernetes and Cloud Security Associate | CNCF / LF | `KCSA` | 223 € → 156 € | À compléter | `KILLER30` / `30KK` (-30 %) | 2 ans | Avant expiration | Voir en bas* | Voir en bas* |
-| 5 | KCNA — Kubernetes and Cloud Native Associate | CNCF / LF | `KCNA` | 223 € → 156 € | À compléter | `KILLER30` / `30KK` (-30 %) | 2 ans | Avant expiration | Voir en bas* | Voir en bas* |
+| 1 | CKA — Kubernetes Administrator | CNCF / LF | `CKA` | 400 € → 280 € | [Formation CKA](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/learn/lecture/14224074#overview) | `KILLER30` / `30KK` (-30 %) | 2 ans | Voir en bas* | Voir en bas* | Voir en bas* |
+| 2 | CKS — Kubernetes Security Specialist | CNCF / LF | `CKS` | 400 € → 280 € | À compléter | `KILLER30` / `30KK` (-30 %) | 2 ans | Voir en bas* | Voir en bas* | Voir en bas* |
+| 3 | CKAD — Kubernetes Application Developer | CNCF / LF | `CKAD` | 400 € → 280 € | À compléter | `KILLER30` / `30KK` (-30 %) | 2 ans | Voir en bas* | Voir en bas* | Voir en bas* |
+| 4 | KCSA — Kubernetes and Cloud Security Associate | CNCF / LF | `KCSA` | 223 € → 156 € | À compléter | `KILLER30` / `30KK` (-30 %) | 2 ans | Voir en bas* | Voir en bas* | Voir en bas* |
+| 5 | KCNA — Kubernetes and Cloud Native Associate | CNCF / LF | `KCNA` | 223 € → 156 € | À compléter | `KILLER30` / `30KK` (-30 %) | 2 ans | Voir en bas* | Voir en bas* | Voir en bas* |
 | 6 | Terraform Associate | HashiCorp | `004` | 65 € | [Terraform Associate 004](https://www.udemy.com/course/terraform-beginner-to-advanced/learn/lecture/53743621#reviews) | — | 2 ans | Même examen : dans les 6 derniers mois avant expiration | Repasser `004`, ou réussir Terraform Infrastructure Engineer Professional ou Terraform Authoring and Operations Advanced avant expiration. Ces examens prolongent automatiquement l'Associate. | Payant : nouvel examen. Le renouvellement automatique par Professional ou Advanced ne coûte rien de plus, mais l'examen supérieur est payant. |
 | 7 | Terraform Authoring and Operations Advanced | HashiCorp | — | 263 € | [Terraform Authoring and Operations Advanced](https://www.udemy.com/course/terraform-authoring-and-operations-professional/learn/lecture/58316449#overview) | — | 2 ans | Dans les 6 derniers mois avant expiration | Repasser l'examen Advanced (AWS ou Azure). | Payant : nouvel examen. Une reprise gratuite est incluse uniquement après un premier échec, sous conditions. |
 | 8 | Vault Associate | HashiCorp | `003` | 65 € | [Formation HashiCorp Vault](https://www.udemy.com/course/hashicorp-vault/learn/lecture/51760777?start=0#overview) et [Examen blanc Vault Associate](https://www.udemy.com/course/hashicorp-certified-vault-associate-practice-exam/learn/quiz/4759196#overview) | — | 2 ans | Même examen : dans les 6 derniers mois avant expiration | Repasser `003`, ou réussir Vault Operations Advanced avant expiration. L'Advanced prolonge automatiquement l'Associate. | Payant : nouvel examen. Le renouvellement automatique par Advanced ne coûte rien de plus, mais l'examen Advanced est payant. |
@@ -31,6 +31,7 @@ Tableau de bord des certifications envisagées : priorités, coûts, codes d'exa
 - Renouveler le CKS : renouvelle automatiquement CKS, CKA, KCSA, et KCNA.
 - Renouveler le CKAD : renouvelle automatiquement CKAD.
 - Il suffit donc de maintenir le CKS et le CKAD actifs pour conserver les 5 certifications, sans repasser individuellement KCNA, KCSA et CKA.
+- **Périodicité et coût :** repasser les examens CKS et CKAD tous les 2 ans, avant ou après leur expiration. Chaque nouvel examen est payant. CARE renouvelle gratuitement les certifications inférieures déjà obtenues, même si elles ont expiré.
 
 Source : https://training.linuxfoundation.org/care-program/
 
