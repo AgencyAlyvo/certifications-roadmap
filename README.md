@@ -2,7 +2,7 @@
 
 Tableau de bord des certifications envisagées : priorités, coûts, codes d'examen, promotions, formations et progression.
 
-## 1. Linux, Kubernetes, Ansible, OpenShift, IaC, Vault et GitOps
+## 1. Linux, Kubernetes, IaC, secrets et GitOps
 
 | Priorité | Certification | Organisme | Code examen | Prix estimé | Formation / préparation Udemy | Code promo / réduction |
 |---:|---|---|---|---:|---|---|
@@ -12,12 +12,28 @@ Tableau de bord des certifications envisagées : priorités, coûts, codes d'exa
 | 4 | Terraform Authoring and Operations Advanced | HashiCorp | — | 263 € | [Terraform Authoring and Operations Advanced](https://www.udemy.com/course/terraform-authoring-and-operations-professional/learn/lecture/58316449#overview) | — |
 | 5 | Vault Associate | HashiCorp | `003` | 65 € | [Formation HashiCorp Vault](https://www.udemy.com/course/hashicorp-vault/learn/lecture/51760777?start=0#overview) et [Examen blanc Vault Associate](https://www.udemy.com/course/hashicorp-certified-vault-associate-practice-exam/learn/quiz/4759196#overview) | — |
 | 6 | Vault Authoring and Operations Advanced | HashiCorp | — | 263 € | [Vault Authoring and Operations Advanced](https://www.udemy.com/course/hashicorp-certified-vault-operations-professional/learn/lecture/30861562?start=0#overview) | — |
+
+<br /><br />
+
+---
+
+<br /><br />
+
+## 2. Linux Red Hat, Ansible Red Hat, OpenShift Red Hat et GitOps — Après les certifications Azure ou AWS
+| Priorité | Certification | Organisme | Code examen | Prix estimé | Formation / préparation Udemy | Code promo / réduction |
+|---:|---|---|---|---:|---|---|
 | 7 | CAPA — Certified Argo Project Associate | CNCF / LF | `CAPA` | 223 € → 156 € | [Argo CD Essential](https://www.udemy.com/course/argo-cd-essential-guide-for-end-users-with-practice/learn/lecture/32789164#overview) et [Examen blanc Argo CD Associate (CAPA)](https://www.udemy.com/course/argo-cd-associate-capa-exam-prep-questions-by-certified/learn/quiz/7106989#overview) | `KILLER30` / `30KK` (-30 %) |
 | 8 | RHCSA — Red Hat Certified System Administrator | Red Hat | `EX200` | 636 € | [Formation RHCSA EX200](https://www.udemy.com/course/prepare-rhcsa-with-practice-course-unoffical/learn/lecture/52584637?start=0#overview) | 15 % après réussite, selon conditions |
 | 9 | RHCE — Red Hat Certified Engineer in Ansible | Red Hat | `EX294` | 636 € | [Formation RHCE EX294](https://www.udemy.com/course/linux-red-hat-certified-engineer-rhce-ex294/learn/lecture/32216486?start=0#overview) | 15 % après réussite, selon conditions |
 | 10 | Red Hat Certified OpenShift Administrator | Red Hat | `EX280` | 636 € | [Formation EX280](https://www.udemy.com/course/ex280-red-hat-certified-openshift-administrator-25-qa/learn/lecture/51308331#overview) | 15 % après réussite, selon conditions |
 
-## 2. AWS — Cloud, DevOps et IA
+<br /><br />
+
+---
+
+<br /><br />
+
+## 3. AWS — Cloud, DevOps et IA
 
 | Certification | Code examen | Prix estimé | Priorité | Validité | Options de renouvellement | Prérequis obligatoire | Durée examen | Format |
 |---|---|---:|---|---|---|---|---|---|
@@ -28,7 +44,13 @@ Tableau de bord des certifications envisagées : priorités, coûts, codes d'exa
 | Developer – Associate | `DVA-C03` | 133 € | Moyenne | 3 ans | Skill Builder : +1 an (abonnement payant, renouvellement possible dans les 90 derniers jours de validité) ; après chaque examen AWS réussi : voucher de -50 % sur un prochain examen | Aucun | 130 min | QCM, réponses multiples |
 | Generative AI Developer – Professional | `AIP-C01` | 267 € | Moyenne | 3 ans | Pas de renouvellement Skill Builder actuellement ; après chaque examen AWS réussi : voucher de -50 % sur un prochain examen | Aucun | 180 min | QCM, réponses multiples |
 
-## 3. Azure — Cloud, DevOps et IA
+<br /><br />
+
+---
+
+<br /><br />
+
+## 4. Azure — Cloud, DevOps et IA
 
 | Certification envisagée | Code examen | Prix estimé | Priorité | Validité | Renouvellement | Prérequis obligatoire | Durée examen | Format |
 |---|---|---:|---|---|---|---|---|---|
