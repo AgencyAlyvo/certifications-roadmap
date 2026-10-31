@@ -11,7 +11,8 @@ Tableau de bord des certifications envisagées : priorités, coûts, codes d'exa
 | 3 | Terraform Associate | HashiCorp | `004` | 65 € | [Terraform Associate 004](https://www.udemy.com/course/terraform-beginner-to-advanced/learn/lecture/53743621#reviews) | — |
 | 4 | Terraform Authoring and Operations Advanced | HashiCorp | — | 263 € | [Terraform Authoring and Operations Advanced](https://www.udemy.com/course/terraform-authoring-and-operations-professional/learn/lecture/58316449#overview) | — |
 | 5 | Vault Associate | HashiCorp | `003` | 65 € | [Formation HashiCorp Vault](https://www.udemy.com/course/hashicorp-vault/learn/lecture/51760777?start=0#overview) et [Examen blanc Vault Associate](https://www.udemy.com/course/hashicorp-certified-vault-associate-practice-exam/learn/quiz/4759196#overview) | — |
-| 6 | CAPA — Certified Argo Project Associate | CNCF / LF | `CAPA` | 223 € → 156 € | [Argo CD Essential](https://www.udemy.com/course/argo-cd-essential-guide-for-end-users-with-practice/learn/lecture/32789164#overview) et [Examen blanc Argo CD Associate (CAPA)](https://www.udemy.com/course/argo-cd-associate-capa-exam-prep-questions-by-certified/learn/quiz/7106989#overview) | `KILLER30` / `30KK` (-30 %) |
+| 6 | Vault Authoring and Operations Advanced | HashiCorp | — | 263 € | [Vault Authoring and Operations Advanced](https://www.udemy.com/course/hashicorp-certified-vault-operations-professional/learn/lecture/30861562?start=0#overview) | — |
+| 7 | CAPA — Certified Argo Project Associate | CNCF / LF | `CAPA` | 223 € → 156 € | [Argo CD Essential](https://www.udemy.com/course/argo-cd-essential-guide-for-end-users-with-practice/learn/lecture/32789164#overview) et [Examen blanc Argo CD Associate (CAPA)](https://www.udemy.com/course/argo-cd-associate-capa-exam-prep-questions-by-certified/learn/quiz/7106989#overview) | `KILLER30` / `30KK` (-30 %) |
 
 ## 2. Kubernetes complémentaire — Après le CKS
 
