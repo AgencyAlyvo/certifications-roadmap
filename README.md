@@ -20,13 +20,12 @@ Tableau de bord des certifications envisagées : priorités, coûts, codes d'exa
 
 **Modalité de renouvellement :**
 
-| Certification déjà obtenue | Certification supérieure permettant le renouvellement automatique |
+| Examen réussi | Certifications renouvelées automatiquement via CARE |
 |---|---|
-| KCNA | CKA ou CKAD |
-| KCSA | CKS |
-| CKA | CKS |
-| CKAD | — |
+| CKA | KCNA |
+| CKAD | KCNA |
 | CKS | KCSA, CKA et KCNA |
+| CKAD + CKS | Les 5 certifications Kubestronaut (CKA, CKAD, CKS, KCSA, KCNA) |
 
 **Pour conserver les 5 certifications Kubestronaut :**
 - Renouveler le CKS : renouvelle automatiquement CKS, CKA, KCSA, et KCNA.
