@@ -34,6 +34,18 @@ Tableau de bord des certifications envisagées : priorités, coûts, codes d'exa
 
 Source : https://training.linuxfoundation.org/care-program/
 
+Avantage supplémentaire Kubestronaut : 5 coupons de réduction de 50 % par an
+
+* 5 coupons de réduction de 50 % sont attribués chaque année aux membres du programme Kubestronaut.
+* Renouvellement annuel : les coupons sont renouvelés chaque année en janvier, tant que le statut Kubestronaut est conservé (5 certifications actives simultanément).
+* Utilisation personnelle ou partage : les coupons peuvent être utilisés personnellement ou partagés avec d’autres personnes. Il n’est donc pas nécessaire de les distribuer pour en bénéficier.
+* Validité : utilisables sur les examens individuels CNCF éligibles, y compris pour passer de nouvelles certifications.
+* Non cumulables avec les bundles de certifications.
+
+Exemple concret : en conservant son statut Kubestronaut, on dispose chaque année de 5 examens à -50 %. On peut utiliser les coupons pour ses propres certifications (CKS, CKAD, etc.) et partager les coupons restants.
+
+Source : https://www.cncf.io/training/kubestronaut/
+
 <br /><br />
 
 ---
