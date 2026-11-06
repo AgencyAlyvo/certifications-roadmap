@@ -2,7 +2,7 @@
 
 Tableau de bord des certifications envisagées : priorités, coûts, codes d'examen, promotions, formations et progression.
 
-## 1. Kubernetes, Terraform, et Vault
+## 1. Kubernetes, Terraform, Vault et ArgoCD
 
 | Priorité | Certification | Organisme | Code examen | Prix estimé | Formation / préparation Udemy | Code promo / réduction | Validité | Quand renouveler | Modalité de renouvellement | Renouvellement payant / gratuit |
 |---:|---|---|---|---:|---|---|---|---|---|---|
