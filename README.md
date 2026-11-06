@@ -52,7 +52,7 @@ Source : https://www.cncf.io/training/kubestronaut/
 
 <br /><br />
 
-## 2. Linux Red Hat, Ansible Red Hat, OpenShift Red Hat et GitOps — Après les certifications Azure ou AWS
+## 2. Linux Red Hat, Ansible, Terraform advanced, Vault Advanced et OpenShift Red Hat — Après les certifications Azure ou AWS
 | Priorité | Certification | Organisme | Code examen | Prix estimé | Formation / préparation Udemy | Code promo / réduction | Validité | Quand renouveler | Modalité de renouvellement | Renouvellement payant / gratuit |
 |---:|---|---|---|---:|---|---|---|---|---|---|
 | 9 | RHCSA — Red Hat Certified System Administrator | Red Hat | `EX200` | 636 € | [Formation RHCSA EX200](https://www.udemy.com/course/prepare-rhcsa-with-practice-course-unoffical/learn/lecture/52584637?start=0#overview) | 15 % après réussite, selon conditions | 3 ans | Avant expiration | Repasser `EX200` ou obtenir RHCE (`EX294`) alors que RHCSA est encore valide. | Payant : nouvel examen. Renouvellement automatique via RHCE, sans frais supplémentaires au-delà de l'examen RHCE. |
