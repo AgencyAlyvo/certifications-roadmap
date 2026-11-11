@@ -77,6 +77,7 @@ Source : https://www.cncf.io/training/kubestronaut/
 | Security – Specialty | `SCS-C03` | 267 € | Moyenne | 3 ans | Skill Builder : +1 an (abonnement payant, renouvellement possible dans les 90 derniers jours de validité) ; après chaque examen AWS réussi : voucher de -50 % sur un prochain examen | Aucun | 170 min | QCM, réponses multiples |
 | Developer – Associate | `DVA-C03` | 133 € | Moyenne | 3 ans | Skill Builder : +1 an (abonnement payant, renouvellement possible dans les 90 derniers jours de validité) ; après chaque examen AWS réussi : voucher de -50 % sur un prochain examen | Aucun | 130 min | QCM, réponses multiples |
 | Generative AI Developer – Professional | `AIP-C01` | 267 € | Moyenne | 3 ans | Pas de renouvellement Skill Builder actuellement ; après chaque examen AWS réussi : voucher de -50 % sur un prochain examen | Aucun | 180 min | QCM, réponses multiples |
+| Advanced Networking – Specialty | `ANS-C01` | 267 € | Faible | 3 ans | Après chaque examen AWS réussi : voucher de -50 % sur un prochain examen | Aucun | 170 min | QCM, réponses multiples |
 
 <br /><br />
 
