@@ -8,7 +8,7 @@ Tableau de bord des certifications envisagées : priorités, coûts, codes d'exa
 |---:|---|---|---|---:|---|---|---|---|---|---|
 | 1 | CKA — Kubernetes Administrator | CNCF / LF | `CKA` | 400 € → 280 € | [Formation CKA](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/learn/lecture/14224074#overview) | `KILLER30` / `30KK` (-30 %) | 2 ans | Voir en bas* | Voir en bas* | Voir en bas* |
 | 2 | CKS — Kubernetes Security Specialist | CNCF / LF | `CKS` | 400 € → 280 € | À compléter | `KILLER30` / `30KK` (-30 %) | 2 ans | Voir en bas* | Voir en bas* | Voir en bas* |
-| 6 | CKNE — Certified Kubernetes Network Engineer | CNCF / LF | `CKNE` | À confirmer | À compléter | À confirmer | À confirmer | À confirmer | À confirmer | À confirmer |
+| 6 | CKNE — Certified Kubernetes Network Engineer | CNCF / LF | `CKNE` | 400 € → 280 € | À compléter | À confirmer | À confirmer | À confirmer | À confirmer | À confirmer |
 | 3 | CKAD — Kubernetes Application Developer | CNCF / LF | `CKAD` | 400 € → 280 € | À compléter | `KILLER30` / `30KK` (-30 %) | 2 ans | Voir en bas* | Voir en bas* | Voir en bas* |
 | 4 | KCSA — Kubernetes and Cloud Security Associate | CNCF / LF | `KCSA` | 223 € → 156 € | À compléter | `KILLER30` / `30KK` (-30 %) | 2 ans | Voir en bas* | Voir en bas* | Voir en bas* |
 | 5 | KCNA — Kubernetes and Cloud Native Associate | CNCF / LF | `KCNA` | 223 € → 156 € | À compléter | `KILLER30` / `30KK` (-30 %) | 2 ans | Voir en bas* | Voir en bas* | Voir en bas* |
