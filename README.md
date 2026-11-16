@@ -17,34 +17,41 @@ Tableau de bord des certifications envisagées : priorités, coûts, codes d'exa
 | 9 | Terraform Associate | HashiCorp | `004` | 65 € | [Terraform Associate 004](https://www.udemy.com/course/terraform-beginner-to-advanced/learn/lecture/53743621#reviews) | — | 2 ans | Même examen : dans les 6 derniers mois avant expiration | Repasser `004`, ou réussir Terraform Infrastructure Engineer Professional ou Terraform Authoring and Operations Advanced avant expiration. Ces examens prolongent automatiquement l'Associate. | Payant : nouvel examen. Le renouvellement automatique par Professional ou Advanced ne coûte rien de plus, mais l'examen supérieur est payant. |
 | 10 | Vault Associate | HashiCorp | `003` | 65 € | [Formation HashiCorp Vault](https://www.udemy.com/course/hashicorp-vault/learn/lecture/51760777?start=0#overview) et [Examen blanc Vault Associate](https://www.udemy.com/course/hashicorp-certified-vault-associate-practice-exam/learn/quiz/4759196#overview) | — | 2 ans | Même examen : dans les 6 derniers mois avant expiration | Repasser `003`, ou réussir Vault Operations Advanced avant expiration. L'Advanced prolonge automatiquement l'Associate. | Payant : nouvel examen. Le renouvellement automatique par l'examen Advanced ne coûte rien de plus, mais cet examen supérieur est payant. |
 
-### Renouvellement des certifications Kubernetes — programme CARE *
+### Renouvellement des certifications Kubernetes — programme CARE
 
-**Modalité de renouvellement :**
+**Modalités de renouvellement automatique :**
 
-| Examen réussi | Certifications renouvelées automatiquement via CARE |
+| Examen réussi ou renouvelé | Certifications renouvelées automatiquement via CARE |
 |---|---|
 | CKA | KCNA |
 | CKAD | KCNA |
 | CKS | KCSA, CKA et KCNA |
-| CKAD + CKS | Les 5 certifications Kubestronaut (CKA, CKAD, CKS, KCSA, KCNA) |
+| CKNE | CKA et KCNA |
+| CKNE + CKAD + CKS | Les 6 certifications Kubestronaut (CKA, CKAD, CKS, CKNE, KCSA et KCNA) |
 
-**Pour conserver les 5 certifications Kubestronaut :**
-- Renouveler le CKS : renouvelle automatiquement CKS, CKA, KCSA, et KCNA.
-- Renouveler le CKAD : renouvelle automatiquement CKAD.
-- Il suffit donc de maintenir le CKS et le CKAD actifs pour conserver les 5 certifications, sans repasser individuellement KCNA, KCSA et CKA.
-- **Périodicité et coût :** repasser les examens CKS et CKAD tous les 2 ans, avant ou après leur expiration. Chaque nouvel examen est payant. CARE renouvelle gratuitement les certifications inférieures déjà obtenues, même si elles ont expiré.
+**Pour conserver les 6 certifications (Kubestronaut) :**
+- **CKS :** renouveler le CKS pour maintenir le CKS et renouveler automatiquement le KCSA, le CKA et le KCNA.
+- **CKAD :** renouveler le CKAD pour maintenir le CKAD.
+- **CKNE :** renouveler le CKNE pour maintenir le CKNE et renouveler automatiquement le CKA et le KCNA.
+- Il suffit donc de maintenir **le CKS, le CKAD et le CKNE actifs** pour conserver les 6 certifications, sans repasser individuellement le CKA, le KCSA et le KCNA.
+
+**Périodicité et coût :**
+- Repasser les examens **CKS, CKAD et CKNE tous les 2 ans, avant leur expiration**, pour conserver les 6 certifications.
+- Chaque nouvel examen est payant.
+- CARE renouvelle automatiquement et gratuitement les certifications éligibles déjà obtenues, même si elles ont expiré, sous réserve des conditions d'éligibilité.
+- Les renouvellements automatiques peuvent prendre quelques jours à être traités.
 
 Source : https://training.linuxfoundation.org/care-program/
 
-Avantage supplémentaire Kubestronaut : 5 coupons de réduction de 50 % par an
+#### Avantage supplémentaire Kubestronaut : 5 coupons de réduction de 50 % par an
 
-* 5 coupons de réduction de 50 % sont attribués chaque année aux membres du programme Kubestronaut.
-* Renouvellement annuel : les coupons sont renouvelés chaque année en janvier, tant que le statut Kubestronaut est conservé (5 certifications actives simultanément).
-* Utilisation personnelle ou partage : les coupons peuvent être utilisés personnellement ou partagés avec d’autres personnes. Il n’est donc pas nécessaire de les distribuer pour en bénéficier.
-* Validité : utilisables sur les examens individuels CNCF éligibles, y compris pour passer de nouvelles certifications.
-* Non cumulables avec les bundles de certifications.
+- **5 coupons de réduction de 50 %** sont attribués chaque année aux membres du programme Kubestronaut.
+- **Renouvellement annuel :** les coupons sont renouvelés chaque année en janvier, tant que le statut Kubestronaut est conservé (5 certifications actives simultanément).
+- **Utilisation personnelle ou partage :** les coupons peuvent être utilisés personnellement ou partagés avec d'autres personnes. Il n'est donc pas nécessaire de les distribuer pour en bénéficier.
+- **Validité :** utilisables sur les examens individuels CNCF éligibles, y compris pour passer de nouvelles certifications.
+- **Non cumulables** avec les bundles de certifications.
 
-Exemple concret : en conservant son statut Kubestronaut, on dispose chaque année de 5 examens à -50 %. On peut utiliser les coupons pour ses propres certifications (CKS, CKAD, etc.) et partager les coupons restants.
+**Exemple concret :** en conservant son statut Kubestronaut, on dispose chaque année de 5 examens à -50 %. On peut utiliser les coupons pour ses propres certifications (CKS, CKAD, CKNE, etc., sous réserve d'éligibilité) et partager les coupons restants.
 
 Source : https://www.cncf.io/training/kubestronaut/
 
